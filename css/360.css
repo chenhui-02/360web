@@ -19,7 +19,7 @@ body{font-family: "microsoft yahei";
      margin:0 auto;
      width:100%;
      height:60px;
-     background:url(img/nav-bg.png) no-repeat;
+     background:url(../img/nav-bg.png) no-repeat;
      }
 .nav-inner{
            width: 1000px;
@@ -32,7 +32,7 @@ body{font-family: "microsoft yahei";
         width: 199px;
         height: 34px;
         line-height: 34px;
-        background: url(img/logo.png) no-repeat;
+        background: url(../img/logo.png) no-repeat;
         padding-left: 38px;
         }
 .main{position: relative;
@@ -50,7 +50,7 @@ body{font-family: "microsoft yahei";
     left: 50%;
     top: 0;
     margin-left: -860px;
-    background:url(img/screen.png) no-repeat 0 0;
+    background:url(../img/screen.png) no-repeat 0 0;
     transition: 1s;
     z-index: 0;
 
@@ -60,7 +60,7 @@ body{font-family: "microsoft yahei";
         left: 50%;
         top: 373px;
         margin-left: -549px;
-        background: url(img/shield.png)  no-repeat 0 0;
+        background: url(../img/shield.png)  no-repeat 0 0;
         transition: 1s;
         }
 .circle{
@@ -70,7 +70,7 @@ body{font-family: "microsoft yahei";
     top: 0;
     margin-left: 204px;
     animation: 6s;
-    background:url(img/circle.png) no-repeat 0 0;
+    background:url(../img/circle.png) no-repeat 0 0;
     transition: 1s;
 }
 .brush{
@@ -78,7 +78,7 @@ body{font-family: "microsoft yahei";
     height: 237px;
     left:50%;
     bottom: -167px;
-    background: url(img/brush.png) no-repeat 0 0;
+    background: url(../img/brush.png) no-repeat 0 0;
     transition: 1s;
 }
 .product{position:absolute;
@@ -90,7 +90,7 @@ body{font-family: "microsoft yahei";
        left: 50%;
        width: 566px;
        height: 86px;
-       background: url(img/title.png) no-repeat 0 0;}
+       background: url(../img/title.png) no-repeat 0 0;}
 .ljxz{
     position: absolute;
     top: 414px;
@@ -98,17 +98,17 @@ body{font-family: "microsoft yahei";
     margin-left: 161px;
     width: 242px;
     height: 56px;
-    background: url(img/ljxz.png) no-repeat 0px 0px;}
+    background: url(../img/ljxz.png) no-repeat 0px 0px;}
 .ljxz:hover{
             
-            background: url(img/ljxz.png) no-repeat 0px -95px;
+            background: url(../img/ljxz.png) no-repeat 0px -95px;
             }
 
 .main2{}
 .main2 .bg{
     width: 100%;
     height: 100%;
-    background: url(img/main2-bg.png) no-repeat 0 0;
+    background: url(../img/main2-bg.png) no-repeat 0 0;
            }
 .item{font-size: 13px;
       line-height: 20px;
@@ -122,7 +122,7 @@ body{font-family: "microsoft yahei";
     opacity: 0;
     transition: 0.3s;
     margin-top: 50px;
-    background: url(img/item1.png) no-repeat 0 0;
+    background: url(../img/item1.png) no-repeat 0 0;
 }
 .item1 p{padding: 130px 0 0 24px;}
 .item2{
@@ -134,7 +134,7 @@ body{font-family: "microsoft yahei";
     transition:0.3s;
     opacity: 0;
     margin: 50px;
-    background: url(img/item2.png) no-repeat 0 0;
+    background: url(../img/item2.png) no-repeat 0 0;
 }
 .item2 p{padding: 48px 0 0 112px;}
 .item3{
@@ -146,7 +146,7 @@ body{font-family: "microsoft yahei";
     transition:0.3s;
     opacity: 0;
     margin: 50px;
-    background: url(img/item3.png) no-repeat 0 0;
+    background: url(../img/item3.png) no-repeat 0 0;
 }
 .item3 p{padding: 102px 0 0 171px;}
 .item4{
@@ -158,7 +158,7 @@ body{font-family: "microsoft yahei";
     transition:0.3s;
     opacity: 0;
     margin: 50px;
-    background: url(img/item4.png) no-repeat 0 0;
+    background: url(../img/item4.png) no-repeat 0 0;
 }
 .item4 p{padding: 52px 0 0 109px;}
 .main2 .title2{
@@ -168,7 +168,7 @@ body{font-family: "microsoft yahei";
     margin-left: -109px;
     width: 218px;
     height: 105px;
-    background: url(img/main2-title.png);
+    background: url(../img/main2-title.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 0%;
@@ -185,7 +185,7 @@ body{font-family: "microsoft yahei";
     opacity: 0;
     margin-top: 100px;
     transition: 1s;
-    background: url(img/main3-text.png) no-repeat 0 0;
+    background: url(../img/main3-text.png) no-repeat 0 0;
 }
 .main3-text .list{
     padding: 106px 0 0 62px;
@@ -217,7 +217,7 @@ body{font-family: "microsoft yahei";
                height: 482px;
                transition: 0.5s;
                opacity: 0;
-               background: url(img/shadow.png) no-repeat 0 0;
+               background: url(../img/shadow.png) no-repeat 0 0;
                }
 .main3 .laptop{
               position: absolute;
@@ -228,7 +228,7 @@ body{font-family: "microsoft yahei";
               margin-top: 50px;
               margin-left: 10px;
               
-              background: url(img/laptop.png) no-repeat 0 0;
+              background: url(../img/laptop.png) no-repeat 0 0;
               }
 .main4 .lock{
             position: absolute;
@@ -241,7 +241,7 @@ body{font-family: "microsoft yahei";
                   width:100%;
                   opacity: 0;
                   transition: 0.3s;
-                  background: url(img/lock.png) no-repeat 0 0;
+                  background: url(../img/lock.png) no-repeat 0 0;
                   }
 .main4 .left-paper{
              position:absolute;
@@ -252,7 +252,7 @@ body{font-family: "microsoft yahei";
              opacity: 0;
              margin-top: 50px;
              transition: 0.3s;
-             background:url(img/paper-left.png) no-repeat 0 0; 
+             background:url(../img/paper-left.png) no-repeat 0 0; 
 }
 .main4 .right-paper{
               position: absolute;
@@ -264,7 +264,7 @@ body{font-family: "microsoft yahei";
               opacity: 0;
               margin-top: 50px;
               transition: 0.3s;
-              background: url(img/paper-right.png) no-repeat 0 0;
+              background: url(../img/paper-right.png) no-repeat 0 0;
 }
 .main4 .lock-shield{
     position: absolute;
@@ -275,7 +275,7 @@ body{font-family: "microsoft yahei";
     height: 220px;
     opacity: 0;
     transition: 0.3s;
-    background: url(img/lock-shield.png) no-repeat 0 0;
+    background: url(../img/lock-shield.png) no-repeat 0 0;
 }
 .main4-text{
     position: absolute;
@@ -287,7 +287,7 @@ body{font-family: "microsoft yahei";
     opacity: 0;
     margin-top:50px;
     transition: 1s;
-    background: url(img/main4-text.png) no-repeat 0 0;
+    background: url(../img/main4-text.png) no-repeat 0 0;
 }
 .main4-text .content{
     padding: 140px 0 0 5px;
@@ -317,7 +317,7 @@ body{font-family: "microsoft yahei";
         height: 553px;
         position: absolute;
         top: -10px;
-        background: url(img/bottom-tab.png);
+        background: url(../img/bottom-tab.png);
         transition: 0.5s;
     
     }   
@@ -328,7 +328,7 @@ body{font-family: "microsoft yahei";
     margin-left: 213px;
     width: 228px;
     height: 295px;
-    background: url(img/floor6-text.png) no-repeat;
+    background: url(../img/floor6-text.png) no-repeat;
     opacity: 0;
     transition: 0.5s;
 }
@@ -344,8 +344,8 @@ body{font-family: "microsoft yahei";
               display:block;
               width: 35px;
               height: 46px;
-            background: url(img/viewport-btn-ie6-top.png);}
-.view-btn-top:hover{background: url(img/viewport-btn-ie6-top.png)  0px -62px no-repeat;}
+            background: url(../img/viewport-btn-ie6-top.png);}
+.view-btn-top:hover{background: url(../img/viewport-btn-ie6-top.png)  0px -62px no-repeat;}
 .view-btn-bottom{
     position:absolute;
     top: 95%;
@@ -353,9 +353,9 @@ body{font-family: "microsoft yahei";
    display:block;
    width: 35px;
    height: 46px;
-   background: url(img/viewport-btn-ie6-bottom.png);}
+   background: url(../img/viewport-btn-ie6-bottom.png);}
 .view-btn-bottom:hover{
-    background: url(img/viewport-btn-ie6-bottom.png) 0px -62px no-repeat;
+    background: url(../img/viewport-btn-ie6-bottom.png) 0px -62px no-repeat;
 }
 .main5{
     position: relative;
@@ -369,7 +369,7 @@ body{font-family: "microsoft yahei";
    height: 256px;
    opacity: 0;
    transition: 1s;
-   background:url(img/main5-text.png) no-repeat; 
+   background:url(../img/main5-text.png) no-repeat; 
 }
 .main5-text ul{margin:191px 0 0 18px;}
 .main5-text ul li{margin-bottom: 10px;}
@@ -387,6 +387,6 @@ body{font-family: "microsoft yahei";
    height: 70px;
    opacity: 0;
    transition: 1s;
-   background: url(img/download-btn.png) -74px 79px;
+   background: url(../img/download-btn.png) -74px 79px;
 }
-.djxz:hover{background: url(img/download-btn.png) -74px 173px;}
+.djxz:hover{background: url(../img/download-btn.png) -74px 173px;}
